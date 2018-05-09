@@ -1,2 +1,2 @@
-# docker-mongodb
+# docker-mongo
 MongoDB container with healthcheck
